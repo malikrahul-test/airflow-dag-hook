@@ -1,0 +1,2 @@
+"Source_table_name","Target_table_name","Source_column","Target_column","Source_data_type","target_data_type"
+"test_src_table1","test_tgt_table1","test_src_column1","test_tgt_column1","string","string"
